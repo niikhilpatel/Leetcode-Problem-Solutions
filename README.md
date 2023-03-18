@@ -5,7 +5,7 @@
 3. <a href="https://github.com/niikhilpatel/Leetcode-Problem-Solutions/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters/longest_substring.py">Longest Substring Without Repeati</a>
 4. <a href="https://github.com/niikhilpatel/Leetcode-Problem-Solutions/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays/median_of_two_sorted_array.py">Median of Two Sorted Arrays</a>
 5. <a href=""></a>
-6. <a href=""></a>
+6. <a href="">Zigzag Conversion</a>
 7. <a href=""></a>
 8. <a href=""></a>
 9. <a href=""></a>
